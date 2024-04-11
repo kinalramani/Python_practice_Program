@@ -5,3 +5,5 @@ class Student:
 
 s=Student("ki","ramani")
 print(s.fname,s.lname)
+
+
