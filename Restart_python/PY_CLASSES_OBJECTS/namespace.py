@@ -4,4 +4,4 @@ class Student:
         self.s_name=s_name
         self.s_class=s_class
 s=Student(4,"ki","c")
-print(s.__dict__)
+print(s.__dict__tr)
