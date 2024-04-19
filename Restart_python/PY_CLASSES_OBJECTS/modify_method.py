@@ -11,4 +11,4 @@ class Student:
 s=Student("kinal",56,10)
 s.show()
 s.update("k",12)
-s.show()
+s.show( )
